@@ -1,0 +1,245 @@
+#navbar
+{
+	display: flex;
+	justify-content: flex-end;
+	font-size: 15px;
+	height: 80px;
+	width: 1250px;
+}
+
+.mail
+{
+	display: flex
+	height: 30px;
+	width: 50px;
+	display: flex;
+	justify-content: center;
+	padding-top: 15px;	
+}
+
+.image
+{
+	display: flex
+	height: 30px;
+	width: 50px;
+	display: flex;
+	justify-content: center;
+	padding-top: 15px;	
+}
+
+.apps
+{
+	display: flex
+	height: 30px;
+	width: 50px;
+	display: flex;
+	justify-content: center;
+	padding-top: 12px;	
+}
+
+.account
+{
+	display: flex
+	height: 30px;
+	width: 50px;
+	display: flex;
+	justify-content: center;
+	padding-top: 4px;	
+}
+
+#photo
+{
+	display: flex;
+	justify-content: center;
+	align-items: stretch;
+	font-size: 15px;
+	height: 200px;
+	width: 1250px;
+	margin-bottom: 2px;
+	margin-top: 10px;
+}
+
+.tof
+{
+	display: flex;
+	justify-content: center;
+	align-items: flex-end;
+}
+
+#recherche
+{
+	display: flex;
+	justify-content: center;
+	font-size: 15px;
+	height: 50px;
+	width: 1250px;
+	margin-bottom: : -40px;
+}
+
+#boutons
+{
+	height: 80px;
+	width: 350px;
+	margin: auto;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	font-size: 15px;
+	margin-bottom: 10px;
+	margin-top: -30px;
+}
+
+.element1
+{
+	background-color: rgb(230, 230, 230);
+	border: 3px rgb(210, 210, 210) solid;
+	border-radius: 5px;
+	height: 30px;
+	width: 160px;
+	margin: auto;
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	align-items: center;
+}
+
+.element2
+{
+	background-color: rgb(230, 230, 230);
+	border: 3px rgb(210, 210, 210) solid;
+	border-radius: 5px;
+	height: 30px;
+	width: 160px;
+	margin: auto;
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	align-items: center;
+}
+ 
+#corona
+{
+	height: 80px;
+	width: 350px;
+	margin: auto;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	font-size: 15px;
+	margin-top: -20px
+	
+}
+
+#content
+{
+	display: flex;
+	justify-content: flex-start;
+	background-color: rgb(230, 230, 230);
+	opacity: 0.6;
+	color: black;
+	width: 1250px;
+	height:40px;
+	border:1px rgb(210, 210, 210) solid;
+	margin-bottom: -10px;
+	margin-top: 50px
+
+}
+
+.pays
+{
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	align-items: center;
+}
+
+#fin 
+{
+	height:60px;
+	width: 1250px;
+	display: flex;
+	justify-content: space-between;
+	font-size: 15px;
+	background-color: rgb(230, 230, 230);
+	opacity: 0.6;
+	color: black;
+	border:1px rgb(210, 210, 210) solid;
+}
+
+.pub
+{
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	align-items: center;
+	color: black;
+}
+
+.boite
+{
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	align-items: center;
+}
+
+.autres 
+{
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	align-items: center;
+}
+
+.question
+{
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	align-items: center;
+}
+
+.justice
+{
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	align-items: center;
+}
+
+.info
+{
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	align-items: center;
+}
+
+.confi
+{
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	align-items: center;
+}
+
+.condi
+{
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	align-items: center;
+}
+
+.parametres
+{
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	align-items: center;
+}
+
+a:hover
+{
+	color: black;
+}
